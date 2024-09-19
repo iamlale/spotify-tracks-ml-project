@@ -83,7 +83,7 @@ Three models were evaluated for regression tasks using cross-validation. Though 
  [ 7589  9165]]
 ```
 ## ✅ Unsupervised Learning
-**Task: Clustering**
+**📝 Task: Clustering**
 
 The goal of unsupervised learning was to group songs based on their audio characteristics without knowing their popularity scores.
 
