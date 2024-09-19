@@ -1,6 +1,6 @@
 # Spotify Song Popularity Prediction and Clustering
 ## 🎶 Project Overview 
-This project aims to analyze and predict the popularity of Spotify songs using supervised learning techniques for classification, as well as group songs based on their audio features using unsupervised learning techniques for clustering. The dataset includes over 230,000 Spotify tracks, with various audio characteristics, such as acousticness, danceability, energy, loudness, and more.⚡
+⚡This project aims to analyze and predict the popularity of Spotify songs using supervised learning techniques for classification, as well as group songs based on their audio features using unsupervised learning techniques for clustering. The dataset includes over 230,000 Spotify tracks, with various audio characteristics, such as acousticness, danceability, energy, loudness, and more.
 
 ### 🔍 Key Objectives:
 1. **Supervised Learning (Classification)**: Predict whether a song is popular or not popular based on its audio features.
